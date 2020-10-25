@@ -1,7 +1,7 @@
 /*
 Navicat MySQL Data Transfer
 
-Source Server         : 本地mysal
+Source Server         : 本地mysalaa
 Source Server Version : 50520
 Source Host           : localhost:3306
 Source Database       : wxchat

@@ -1,0 +1,6 @@
+/wxchat/*.project
+/wxchat/*.classpath
+/wxchat/.settings
+/wxchat/WebRoot/WEB-INF/classes
+/wxchat/config/entiy.umr
+/wxchat/config/entiy.umr~
